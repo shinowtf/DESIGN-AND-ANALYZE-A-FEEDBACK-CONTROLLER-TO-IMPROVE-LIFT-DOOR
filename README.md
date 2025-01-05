@@ -1,33 +1,4 @@
-﻿![](Aspose.Words.a8ad37eb-7a90-4b24-b102-ca5118cd3d3f.001.png)
-
-**DEPARTMENT OF ELECTRICAL AND ELECTRONCS ENGINEERING** 
-
-**FACULTY OF ENGINEERING 
-NATIONAL DEFENCE UNVIERSITY OF MALAYSIA** 
-
-**LAB REPORT 2** 
-
-**EEE 3351 – ENGINEERING LAB V 
-SEMESTER 1 ACADEMIC SESSION 2024/2025 PROGRAMME ZK23** 
-
-**DESIGN AND ANALYZE A FEEDBACK CONTROLLER TO IMPROVE LIFT DOOR** 
-
-**LECTERUR** 
-
-1. **Prof. Madya Ts. Gs. Dr. Syed Mohd Fairuz Bin Syed Mohd Dardin** 
-1. **Dr. Siti Noormiza Binti Makhtar** 
-1. **Dr. Chew Sue Ping** 
-1. **Dr. Elya Binti Mohd Nor** 
-
-
-
-|**NAME** |**NO MATRIC** |
-| - | - |
-|**LEE KAH CHUN** |**2220847** |
-|**KARANRAJ A/L PARAMASIVAM** |**2220136** |
-|**AINA SYAZANA BINTI ANUR** |**2190204** |
-
-**INTRODUCTION** 
+﻿**INTRODUCTION** 
 
 Managing lift door mechanisms is a crucial aspect of the design and functioning of contemporary elevator systems. A key element that powers the lift door system is the DC motor, responsible for regulating the door's speed and motion. The motor needs precise regulation to guarantee seamless functioning, safety, and effectiveness. A major difficulty in creating such a system is ensuring accurate regulation of the motor’s speed, especially under different load conditions (i.e., the door's weight) and attaining the intended opening and closing durations of the lift door.  
 
